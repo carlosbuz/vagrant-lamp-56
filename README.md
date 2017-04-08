@@ -1,0 +1,1 @@
+Vagrant LAMP PHP 5.6
